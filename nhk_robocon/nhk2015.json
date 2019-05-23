@@ -115,10 +115,10 @@
             { "teams": [ "T12", "T14" ], "winner": "T14" },
             { "teams": [ "T17", "T20" ], "winner": "T17" },
 
-            { "teams": [ "T04", "T08" ], "winner": "T08" },
+            { "teams": [ "T04", "T08" ], "winner": "T04" },
             { "teams": [ "T14", "T17" ], "winner": "T17" },
 
-            { "teams": [ "T08", "T17" ], "winner": "T08" }
+            { "teams": [ "T04", "T17" ], "winner": "T04" }
         ]
     },
     "awards": {
