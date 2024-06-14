@@ -143,123 +143,83 @@
         },
         "match_results": [
             {
-                "teams": [
-                    "A1", "A2"
-                ],
+                "teams": ["A1", "A2"],
                 "winner": "A1"
             },
             {
-                "teams": [
-                    "A3", "A1"
-                ],
+                "teams": ["A3", "A1"],
                 "winner": "A1"
             },
             {
-                "teams": [
-                    "A2", "A3"
-                ],
+                "teams": ["A2", "A3"],
                 "winner": "A2"
             },
             {
-                "teams": [
-                    "B1", "B2"
-                ],
+                "teams": ["B1", "B2"],
                 "winner": "B2"
             },
             {
-                "teams": [
-                    "B3", "B1"
-                ],
+                "teams": ["B3", "B1"],
                 "winner": "B1"
             },
             {
-                "teams": [
-                    "B2", "B3"
-                ],
+                "teams": ["B2", "B3"],
                 "winner": "B2"
             },
             {
-                "teams": [
-                    "C1", "C2"
-                ],
+                "teams": ["C1", "C2"],
                 "winner": "C2"
             },
             {
-                "teams": [
-                    "C3", "C1"
-                ],
+                "teams": ["C3", "C1"],
                 "winner": "C1"
             },
             {
-                "teams": [
-                    "C2", "C3"
-                ],
+                "teams": ["C2", "C3"],
                 "winner": "C2"
             },
             {
-                "teams": [
-                    "D1", "D2"
-                ],
+                "teams": ["D1", "D2"],
                 "winner": "D1"
             },
             {
-                "teams": [
-                    "D3", "D1"
-                ],
+                "teams": ["D3", "D1"],
                 "winner": "D1"
             },
             {
-                "teams": [
-                    "D2", "D3"
-                ],
+                "teams": ["D2", "D3"],
                 "winner": "D2"
             },
             {
-                "teams": [
-                    "E1", "E2"
-                ],
+                "teams": ["E1", "E2"],
                 "winner": "E1"
             },
             {
-                "teams": [
-                    "E3", "E1"
-                ],
+                "teams": ["E3", "E1"],
                 "winner": "E1"
             },
             {
-                "teams": [
-                    "E2", "E3"
-                ],
+                "teams": ["E2", "E3"],
                 "winner": "E3"
             },
             {
-                "teams": [
-                    "F1", "F2"
-                ],
+                "teams": ["F1", "F2"],
                 "winner": "F2"
             },
             {
-                "teams": [
-                    "F3", "F1"
-                ],
+                "teams": ["F3", "F1"],
                 "winner": "F1"
             },
             {
-                "teams": [
-                    "F2", "F3"
-                ],
+                "teams": ["F2", "F3"],
                 "winner": "F2"
             },
             {
-                "teams": [
-                    "G1", "G2"
-                ],
+                "teams": ["G1", "G2"],
                 "winner": "G1"
             },
             {
-                "teams": [
-                    "G2", "G1"
-                ],
+                "teams": ["G2", "G1"],
                 "winner": "G1"
             }
         ]
@@ -277,45 +237,31 @@
         },
         "match_results": [
             {
-                "teams": [
-                    "P2", "P7"
-                ],
+                "teams": ["P2", "P7"],
                 "winner": "P2"
             },
             {
-                "teams": [
-                    "P6", "P3"
-                ],
+                "teams": ["P6", "P3"],
                 "winner": "P3"
             },
             {
-                "teams": [
-                    "P4", "P5"
-                ],
+                "teams": ["P4", "P5"],
                 "winner": "P4"
             },
             {
-                "teams": [
-                    "W1", "P1"
-                ],
+                "teams": ["W1", "P1"],
                 "winner": "P1"
             },
             {
-                "teams": [
-                    "P2", "P3"
-                ],
+                "teams": ["P2", "P3"],
                 "winner": "P3"
             },
             {
-                "teams": [
-                    "P4", "P1"
-                ],
+                "teams": ["P4", "P1"],
                 "winner": "P1"
             },
             {
-                "teams": [
-                    "P3", "P1"
-                ],
+                "teams": ["P3", "P1"],
                 "winner": "P3"
             }
         ]

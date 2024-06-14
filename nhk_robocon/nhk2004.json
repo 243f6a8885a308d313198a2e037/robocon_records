@@ -95,117 +95,79 @@
     "tournament": {
         "match_results": [
             {
-                "teams": [
-                    "T01", "T02"
-                ],
+                "teams": ["T01", "T02"],
                 "winner": "T02"
             },
             {
-                "teams": [
-                    "T03", "T04"
-                ],
+                "teams": ["T03", "T04"],
                 "winner": "T04"
             },
             {
-                "teams": [
-                    "T05", "T06"
-                ],
+                "teams": ["T05", "T06"],
                 "winner": "T05"
             },
             {
-                "teams": [
-                    "T07", "T08"
-                ],
+                "teams": ["T07", "T08"],
                 "winner": "T08"
             },
             {
-                "teams": [
-                    "T09", "T10"
-                ],
+                "teams": ["T09", "T10"],
                 "winner": "T10"
             },
             {
-                "teams": [
-                    "T08", "T10"
-                ],
+                "teams": ["T08", "T10"],
                 "winner": "T08"
             },
             {
-                "teams": [
-                    "T11", "T12"
-                ],
+                "teams": ["T11", "T12"],
                 "winner": "T11"
             },
             {
-                "teams": [
-                    "T13", "T14"
-                ],
+                "teams": ["T13", "T14"],
                 "winner": "T14"
             },
             {
-                "teams": [
-                    "T15", "T16"
-                ],
+                "teams": ["T15", "T16"],
                 "winner": "T15"
             },
             {
-                "teams": [
-                    "T17", "T18"
-                ],
+                "teams": ["T17", "T18"],
                 "winner": "T18"
             },
             {
-                "teams": [
-                    "T19", "T20"
-                ],
+                "teams": ["T19", "T20"],
                 "winner": "T19"
             },
             {
-                "teams": [
-                    "T18", "T19"
-                ],
+                "teams": ["T18", "T19"],
                 "winner": "T18"
             },
             {
-                "teams": [
-                    "T02", "T04"
-                ],
+                "teams": ["T02", "T04"],
                 "winner": "T02"
             },
             {
-                "teams": [
-                    "T06", "T08"
-                ],
+                "teams": ["T06", "T08"],
                 "winner": "T08"
             },
             {
-                "teams": [
-                    "T11", "T14"
-                ],
+                "teams": ["T11", "T14"],
                 "winner": "T14"
             },
             {
-                "teams": [
-                    "T15", "T18"
-                ],
+                "teams": ["T15", "T18"],
                 "winner": "T18"
             },
             {
-                "teams": [
-                    "T02", "T08"
-                ],
+                "teams": ["T02", "T08"],
                 "winner": "T02"
             },
             {
-                "teams": [
-                    "T14", "T18"
-                ],
+                "teams": ["T14", "T18"],
                 "winner": "T14"
             },
             {
-                "teams": [
-                    "T02", "T14"
-                ],
+                "teams": ["T02", "T14"],
                 "winner": "T14"
             }
         ]
