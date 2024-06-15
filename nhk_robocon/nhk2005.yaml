@@ -38,11 +38,6 @@ participated_teams:
     school: 福岡工業大学
 rules:
   victory_name: 万里の長城を照らせ！
-  comment:
-    - JSONにコメント書けないのつらいな
-    - results には本来は tasks も追加して全部書きたいところだけど今は辛いのでなし
-    - 本当はこんなものはここにはない
-    - 豊橋が失格
 preliminary:
   groups:
     A:
@@ -112,6 +107,7 @@ preliminary:
         - C2
         - C3
       winner: C3
+      # C2: 豊橋が失格
     - teams:
         - D1
         - D2

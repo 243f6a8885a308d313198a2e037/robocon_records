@@ -38,11 +38,6 @@ participated_teams:
     school: 金沢工業大学
 rules:
   victory_name: A SALUTE TO PARENTHOOD
-  comment:
-    - JSONにコメント書けないのつらいな
-    - results には本来は tasks も追加して全部書きたいところだけど今は辛いのでなし
-    - 本当はこんなものはここにはない
-    - 予選順位はわからなかったので適当
 preliminary:
   groups:
     A:
@@ -149,6 +144,7 @@ preliminary:
         - F3
       winner: F3
 tournament:
+  # 予選順位はわからなかったので適当にそれらしく埋めた。
   preliminary_ranking:
     P1: 名古屋工業大学
     P2: 京都工芸繊維大学

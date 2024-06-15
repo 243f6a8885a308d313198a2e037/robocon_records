@@ -44,10 +44,6 @@ participated_teams:
     school: 福岡工業大学
 rules:
   victory_name: THE GREEN PLANET
-  comment:
-    - JSONにコメント書けないのつらいな
-    - results には本来は tasks も追加して全部書きたいところだけど今は辛いのでなし
-    - 本当はこんなものはここにはない
 preliminary:
   groups:
     A:

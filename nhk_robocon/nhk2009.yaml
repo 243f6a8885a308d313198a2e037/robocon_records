@@ -42,10 +42,6 @@ participated_teams:
     school: 三重大学
 rules:
   victory_name: 旅は道連れ　勝利の太鼓を打て
-  comment:
-    - JSONにコメント書けないのつらいな
-    - results には本来は tasks も追加して全部書きたいところだけど今は辛いのでなし
-    - 本当はこんなものはここにはない
 preliminary:
   groups:
     A:

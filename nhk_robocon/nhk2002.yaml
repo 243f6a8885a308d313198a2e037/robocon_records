@@ -47,10 +47,6 @@ participated_teams:
     school: 東京農工大学
 rules:
   victory_name: 富士山頂を目指せ！
-  comment:
-    - JSONにコメント書けないのつらいな
-    - results には本来は tasks も追加して全部書きたいところだけど今は辛いのでなし
-    - 本当はこんなものはここにはない
 tournament:
   match_results:
     - teams:

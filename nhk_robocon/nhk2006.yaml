@@ -38,10 +38,6 @@ participated_teams:
     school: 静岡理工科大学
 rules:
   victory_name: ツインタワー・ビルダー
-  comment:
-    - JSONにコメント書けないのつらいな
-    - results には本来は tasks も追加して全部書きたいところだけど今は辛いのでなし
-    - 本当はこんなものはここにはない
 preliminary:
   groups:
     A:

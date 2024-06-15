@@ -44,10 +44,6 @@ participated_teams:
     school: 高知工科大学
 rules:
   victory_name: ハロン湾の伝説
-  comment:
-    - JSONにコメント書けないのつらいな
-    - results には本来は tasks も追加して全部書きたいところだけど今は辛いのでなし
-    - 本当はこんなものはここにはない
 preliminary:
   groups:
     A:

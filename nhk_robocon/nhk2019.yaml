@@ -46,10 +46,6 @@ participated_teams:
     school: 仙台高等専門学校　名取キャンパス
 rules:
   victory_name: GREAT URTUU
-  comment:
-    - JSONにコメント書けないのつらいな
-    - results には本来は tasks も追加して全部書きたいところだけど今は辛いのでなし
-    - 本当はこんなものはここにはない
 preliminary:
   groups:
     A:

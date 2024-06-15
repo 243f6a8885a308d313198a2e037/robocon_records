@@ -42,12 +42,6 @@ participated_teams:
     school: 山口大学
 rules:
   victory_name: 織姫と彦星
-  comment:
-    - JSONにコメント書けないのつらいな
-    - results には本来は tasks も追加して全部書きたいところだけど今は辛いのでなし
-    - 本当はこんなものはここにはない
-    - デザイン賞が豊橋技術科学大学というのは予想
-    - HISTORYではアイデア賞が２つあったので問い合わせ中
 tournament:
   match_results:
     - teams:
@@ -132,6 +126,9 @@ awards:
   アイデア賞: 東京農工大学
   技術賞: 長岡技術科学大学
   デザイン賞: 豊橋技術科学大学
+  # デザイン賞が豊橋技術科学大学というのは前年の賞記述順序からの予想。
+  # HISTORY ではアイデア賞が 2 つあったので問い合わせ中
+  # cf. <https://official-robocon.com/history/gakusei/about/history/twelfth/>
   アイデア倒れ賞: 湘南工科大学
   特別賞:
     松下電器: 湘南工科大学
