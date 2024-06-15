@@ -45,10 +45,28 @@ rules:
 # 予選は開催されなかった。
 tournament:
   match_results:
+    # 20 -> 16
     - teams:
         - T02
         - T03
       winner: T03
+    - teams:
+        - T08
+        - T09
+      winner: T08
+    - teams:
+        - T12
+        - T13
+      winner: T12
+    - teams:
+        - T18
+        - T19
+      winner: T18
+    # 16 -> 8
+    - teams:
+        - T01
+        - T03
+      winner: T01
     - teams:
         - T04
         - T05
@@ -59,11 +77,11 @@ tournament:
       winner: T06
     - teams:
         - T08
-        - T09
+        - T10
       winner: T08
     - teams:
+        - T11
         - T12
-        - T13
       winner: T12
     - teams:
         - T14
@@ -75,24 +93,9 @@ tournament:
       winner: T17
     - teams:
         - T18
-        - T19
-      winner: T18
-    - teams:
-        - T01
-        - T03
-      winner: T01
-    - teams:
-        - T08
-        - T10
-      winner: T08
-    - teams:
-        - T11
-        - T12
-      winner: T12
-    - teams:
-        - T18
         - T20
       winner: T20
+    # 8 -> 4
     - teams:
         - T01
         - T04
@@ -109,6 +112,7 @@ tournament:
         - T17
         - T20
       winner: T17
+    # 4 -> 2
     - teams:
         - T04
         - T08
@@ -117,6 +121,7 @@ tournament:
         - T14
         - T17
       winner: T17
+    # 2 -> 1
     - teams:
         - T04
         - T17

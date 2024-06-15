@@ -44,6 +44,24 @@ rules:
   victory_name: タクローの覇者
 tournament:
   match_results:
+    # 20 -> 16
+    - teams:
+        - T07
+        - T08
+      winner: T08
+    - teams:
+        - T09
+        - T10
+      winner: T10
+    - teams:
+        - T17
+        - T18
+      winner: T18
+    - teams:
+        - T19
+        - T20
+      winner: T20
+    # 16 -> 8
     - teams:
         - T01
         - T02
@@ -56,14 +74,6 @@ tournament:
         - T05
         - T06
       winner: T05
-    - teams:
-        - T07
-        - T08
-      winner: T08
-    - teams:
-        - T09
-        - T10
-      winner: T10
     - teams:
         - T08
         - T10
@@ -81,17 +91,10 @@ tournament:
         - T16
       winner: T16
     - teams:
-        - T17
-        - T18
-      winner: T18
-    - teams:
-        - T19
-        - T20
-      winner: T20
-    - teams:
         - T18
         - T20
       winner: T20
+    # 8 -> 4
     - teams:
         - T01
         - T04
@@ -108,6 +111,7 @@ tournament:
         - T16
         - T20
       winner: T16
+    # 4 -> 2
     - teams:
         - T04
         - T05
@@ -116,6 +120,7 @@ tournament:
         - T13
         - T16
       winner: T13
+    # 2 -> 1
     - teams:
         - T04
         - T13

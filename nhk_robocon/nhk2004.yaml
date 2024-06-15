@@ -44,6 +44,24 @@ rules:
   victory_name: 織姫と彦星
 tournament:
   match_results:
+    # 20 -> 16
+    - teams:
+        - T07
+        - T08
+      winner: T08
+    - teams:
+        - T09
+        - T10
+      winner: T10
+    - teams:
+        - T17
+        - T18
+      winner: T18
+    - teams:
+        - T19
+        - T20
+      winner: T19
+    # 16 -> 8
     - teams:
         - T01
         - T02
@@ -56,14 +74,6 @@ tournament:
         - T05
         - T06
       winner: T05
-    - teams:
-        - T07
-        - T08
-      winner: T08
-    - teams:
-        - T09
-        - T10
-      winner: T10
     - teams:
         - T08
         - T10
@@ -81,17 +91,10 @@ tournament:
         - T16
       winner: T15
     - teams:
-        - T17
-        - T18
-      winner: T18
-    - teams:
-        - T19
-        - T20
-      winner: T19
-    - teams:
         - T18
         - T19
       winner: T18
+    # 8 -> 4
     - teams:
         - T02
         - T04
@@ -108,6 +111,7 @@ tournament:
         - T15
         - T18
       winner: T18
+    # 4 -> 2
     - teams:
         - T02
         - T08
@@ -116,6 +120,7 @@ tournament:
         - T14
         - T18
       winner: T14
+    # 2 -> 1
     - teams:
         - T02
         - T14

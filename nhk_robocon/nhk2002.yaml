@@ -49,26 +49,7 @@ rules:
   victory_name: 富士山頂を目指せ！
 tournament:
   match_results:
-    - teams:
-        - T01
-        - T02
-      winner: T02
-    - teams:
-        - T03
-        - T04
-      winner: T03
-    - teams:
-        - T05
-        - T06
-      winner: T06
-    - teams:
-        - T07
-        - T08
-      winner: T08
-    - teams:
-        - T09
-        - T10
-      winner: T10
+    # 22 -> 16
     - teams:
         - T11
         - T12
@@ -93,6 +74,27 @@ tournament:
         - T21
         - T22
       winner: T22
+    # 16 -> 8
+    - teams:
+        - T01
+        - T02
+      winner: T02
+    - teams:
+        - T03
+        - T04
+      winner: T03
+    - teams:
+        - T05
+        - T06
+      winner: T06
+    - teams:
+        - T07
+        - T08
+      winner: T08
+    - teams:
+        - T09
+        - T10
+      winner: T10
     - teams:
         - T12
         - T13
@@ -105,6 +107,7 @@ tournament:
         - T19
         - T22
       winner: T19
+    # 8 -> 4
     - teams:
         - T02
         - T03
@@ -121,6 +124,7 @@ tournament:
         - T18
         - T19
       winner: T19
+    # 4 -> 2
     - teams:
         - T03
         - T06
@@ -129,6 +133,7 @@ tournament:
         - T13
         - T19
       winner: T19
+    # 2 -> 1
     - teams:
         - T03
         - T19
