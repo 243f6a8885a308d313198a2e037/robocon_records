@@ -9,7 +9,8 @@ participated_teams:
   - id: B1
     school: 長岡技術科学大学
   - id: B2
-    school: 慶応義塾大学
+    # この年だけ表記が「慶応義塾大学」だが、他年（2019, 2024）は「慶應義塾大学」なのでこちらに統一。
+    school: 慶應義塾大学
   - id: B3
     school: 豊橋技術科学大学
   - id: C1
