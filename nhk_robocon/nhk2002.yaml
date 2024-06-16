@@ -33,8 +33,13 @@ participated_teams:
   - id: T16
     school: 東京大学
   - id: T17
-    school: 首都大学東京
-    comment: 当時は「東京都立大学」
+    # 当時は「東京都立大学」
+    # cf. <https://ja.wikipedia.org/wiki/東京都立大学_(1949-2011)>
+    # その後「首都大学東京」に統合された。
+    # cf. <https://ja.wikipedia.org/wiki/首都大学東京>
+    # その後「東京都立大学」に改称された。
+    # cf. <https://ja.wikipedia.org/wiki/東京都立大学_(2020-)>
+    school: 東京都立大学
   - id: T18
     school: 長岡技術科学大学
   - id: T19
